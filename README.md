@@ -1,6 +1,6 @@
-# APLIKACJA INTERNETOWA FIRMY E-COMMERCE
+# WEB E-COMMERCE APPLICATION
 
-Project Overview:
+## Project Overview:
 	This project is a web application designed for an e-commerce company specializing in IT services. System allow to manage tasks and assign them to specific employees. It also provides booking system and view of task proggress for users.
 
 ## System roles
